@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IndrajitBurman
-- 👀 I’m interested in network building, looking for job in ireland 
+- 👀 I’m interested in network building
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on companies on data science job profile
 - 📫 How to reach me email indrajitburman186@gmail.com 
